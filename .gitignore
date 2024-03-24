@@ -1,0 +1,10 @@
+.cog
+checkpoints
+cache
+__pycache__
+input
+output
+models
+.vscode
+*.code-workspace
+aiModels.json
